@@ -1,7 +1,7 @@
 # Mangrove
 Dynamic Background for gnome desktop
 
-![Mangrove3](https://github.com/user-attachments/assets/5ab215c3-5bc4-4808-a9e7-ad0f12642cd3)
+![mangrove2](https://github.com/user-attachments/assets/5ac04391-a09a-4086-9d36-bec6ea1f85aa)
 
 Mangrove
 
@@ -14,7 +14,7 @@ The Dynamic Background can be installed directly into the system backgrounds fol
 
 Then you can enable using the gnome Settings -> Backgrounds section of your distribution. 
 
-![Mangrove1](https://github.com/user-attachments/assets/532ac8fe-bf9a-47fa-8865-911eb9ece1f5)
+<img width="1920" height="1080" alt="mangrove5" src="https://github.com/user-attachments/assets/097d7fb4-b884-4a19-ae5d-dbe6d46d7ad7" />
 
 Mangrove
 
