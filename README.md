@@ -71,5 +71,5 @@ Looks great with WaterCoolerXT Theme:
 
 WaterCoolerXT Theme here: <a href="https://github.com/therobcox/WaterCoolerXT">https://github.com/therobcox/WaterCoolerXT</a>
 
-WaterCooler Icon Theme here: <a href="https://github.com/therobcox/WaterCoolerXT-Icons">https://github.com/therobcox/WaterCoolerXT-Icons</a>
+WaterCooler Icon Theme here: <a href="https://github.com/therobcox/WaterCooler-Icons">https://github.com/therobcox/WaterCooler-Icons</a>
 
